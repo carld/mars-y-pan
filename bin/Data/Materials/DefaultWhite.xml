@@ -1,0 +1,11 @@
+<material>
+    <technique name="Techniques/NoTexture.xml" />
+    <parameter name="MatDiffColor" value="0.55 0.55 0.55 1.0" />
+    <parameter name="MatSpecColor" value="0.70 0.70 0.70 1.0" />
+    <parameter name="Metallic" value="32.0" />
+    <!--<parameter name="Roughness" value="1.0" />-->
+    <!--<parameter name="MatEnvMapColor" value="1 1 1" />-->
+    <parameter name="MatEmissiveColor" value="0 0 0" />
+    <shadowcull value="none" />
+    <occlusion enable="true" />
+</material>
