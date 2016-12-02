@@ -8,4 +8,5 @@
 
     ./bin/Mars
 
+![Screenshot](/curiosity.png?raw=true)
 
